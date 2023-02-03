@@ -5,4 +5,5 @@
 5. 개발환경 : 
     - 백엔드 : Java, Spring, Oracle Database
     - 프론트엔드 : css, jsp, jQuery
-6. ERD
+___
+<img src="https://user-images.githubusercontent.com/108383047/216542781-b0736bcb-9eeb-453d-9670-b58e23024b62.jpg"  width="800" height="500">
